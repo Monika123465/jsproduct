@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.footer{
+    width: 100%;
+    color: white;
+    background-color: black;
+    display: flex;
+    gap: 80px;
+    
+    padding:60px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.top{
+    margin-left: 120px;
+}
+.footer-top{
+    display: flex;
+    font-size: 20px;
+}
+.social{
+    width:20%;
+}
+.twitter{
+    width: 20%;
+}
+.youtube{
+    width: 24%;
+}
+.img-footer{
+
+    width: 200px;
+    margin-top: 10px;
+}
+.support{
+    margin-left: 20px;
+    line-height:25px;
+}
+.us{
+    margin-bottom: 20px;
+    color: #dddd;
+    font-size:20px;
+
+}
+.stay{
+    margin-left:120px;
+
+}
+.text{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.input{
+    width:330px;
+    height: 20px;
+    background-color: transparent;
+    margin-bottom: 30px;
+}
