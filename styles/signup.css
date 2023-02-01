@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(155, 148, 233, 1) 100%);
+}
+
+.signup {
+     width: 40%;
+    height: 500px;
+    margin: auto;
+    line-height: 25px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 150px;
+    background-color: #dddddd;
+}
+
+.firstpart {
+margin-left: 100px;
+
+}
+
+.sign {
+ font-size: 25px;
+    padding-top: 40px;
+    margin-left: 130px;
+}
+.text {
+    margin-left: 60px;
+    margin-bottom: 40px;
+}
+.input {
+    width: 400px;
+    height: 25px;
+    margin-bottom: 20px;
+    border: none;
+}
+.btn {
+    display: block;
+    width: 413px;
+    height: 35px;
+    margin: auto;
+    margin-bottom: 40px;
+    background-color: blueviolet;
+    border: none;
+    color: white;
+}
+
+.user {
+    width: 250px;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    gap: 5px;
+
+
+}
