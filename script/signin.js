@@ -16,6 +16,7 @@ form.addEventListener("submit",function(e){
     }
     if(value==false){
         alert('wrong credentials')
+        window.location.href="signup.html"
     }else{
         let users={
             email:email,
