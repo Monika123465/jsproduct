@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    background-image: url('https://digital.com/wp-content/uploads/2022/06/ecommerce-shopping-cart-1280x720-1.jpg');
+}
+
+.cartblue {
+    width: 85%;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 45px;
+
+
+}
+
+.cart-start {
+    width:30%;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    margin: auto;
+    gap: 60px;
+    margin-bottom:60px;
+    margin-top: 20px;
+    
+
+}
+.start-text {
+    font-size: 45px;
+    margin-left:250px;
+}
+.cartimg{
+    width:40%;
+    
+}
+.cartsuru{
+    width: 75%;
+    margin: auto;
+    
+}
+.cartpage{
+    
+    display: flex;
+    gap:10px;
+    width: 40%;
+}
+.cartpageslist{
+    
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    align-items: center;
+}
+.cartquantity{
+    
+    width:100px;
+    height:30px;
+    align-items:center;
+    display: flex;
+}
+
+
+.inputvalue{
+    width:40px;
+
+}
+.subtotal{
+    width: 80%;
+    
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+.feedback{
+    margin-left: 150px;
+    margin-top: 20px;
+  
+}
+.feedback p{
+    font-size: 25px;
+}
+.feedback input{
+    width: 380px;
+    height:100px;
+    margin-top: 10px;
+}
+.total{
+    display: flex;
+}
