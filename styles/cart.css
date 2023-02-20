@@ -2,11 +2,6 @@
     margin: 0;
     padding: 0;
 }
-
-.body {
-    background-image: url('https://digital.com/wp-content/uploads/2022/06/ecommerce-shopping-cart-1280x720-1.jpg');
-}
-
 .cartblue {
     width: 85%;
     margin: auto;
@@ -25,8 +20,6 @@
     gap: 60px;
     margin-bottom:60px;
     margin-top: 20px;
-    
-
 }
 .start-text {
     font-size: 45px;
